@@ -6,7 +6,7 @@ You have an N x N chessboard and you wish to place N kings on it. Each row and c
 The kings in the first K rows of the board have already been placed. You are given the positions of these kings as an array pos[ ]. pos[i] is the column in which the king in the ith row has already been placed. All indices are 0-indexed. In how many ways can the remaining kings be placed?
 
 Input:
-Each test case contains N and K on the first line, followed by a line having K integers, denoting the array pos[ ] as described above.
+Two integets, N and k, and an array of k integers, denoting the array pos[ ] as described above. All inputs should be provided in the main method of the KingPlacementApp class.
 
 Output:
 Output the number of ways to place kings in the remaining rows satisfying the above conditions.
