@@ -1,4 +1,4 @@
-I cam across this problem when I participated in facebook's programming challenge. The challenge was simple: you have 2 hours to solve a timed programming question in the language of your choice.bYou are also provided with test cases.
+I cam across this problem when I participated in facebook's programming challenge. The challenge was simple: you have 2 hours to solve a timed programming question in the language of your choice. You are also provided with test cases.
 The problem is as follows: 
 
 You have an N x N chessboard and you wish to place N kings on it. Each row and column should contain exactly one king, and no two kings should attack each other (two kings attack each other if they are present in squares which share a corner).
@@ -12,7 +12,7 @@ Output:
 Output the number of ways to place kings in the remaining rows satisfying the above conditions.
 
 Constraints:
-1 <= N <= 16
-0 <= K <= N
-0 <= pos_i < N
+1 <= N <= 16, 
+0 <= K <= N, 
+0 <= pos_i < N. 
 The kings specified in the input will be in different columns and not attack each other.
