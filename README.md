@@ -1,5 +1,5 @@
-# I cam across this problem when I participated in facebook's programming challenge. The challenge was simple: you have 2 hours to solve a timed programming question in the language of your choice.bYou are also provided with test cases.
-# The problem is as follows: 
+I cam across this problem when I participated in facebook's programming challenge. The challenge was simple: you have 2 hours to solve a timed programming question in the language of your choice.bYou are also provided with test cases.
+The problem is as follows: 
 
 You have an N x N chessboard and you wish to place N kings on it. Each row and column should contain exactly one king, and no two kings should attack each other (two kings attack each other if they are present in squares which share a corner).
 
